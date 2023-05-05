@@ -1,6 +1,6 @@
 # My custom Execution Environments
 
 
-- [cloud](./cloud/README.md)
-  - Integration with clouds I am playing with now
+- [cloud](./gcp/README.md) (quay.io/jwerak/ansible-ee-gcp)
+  - Integration with gcp
 - 
